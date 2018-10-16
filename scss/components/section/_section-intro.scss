@@ -1,0 +1,21 @@
+.section--intro {
+  h1 {
+    text-align: center;
+    font-size: 40px;
+    padding: 40px;
+
+    .welcome & {
+      padding: 200px 40px 40px;
+    }
+  }
+
+  p {
+    text-align: center;
+    padding: 40px;
+
+    .about & {
+      text-align: left;
+      padding: 40px 20px;
+    }
+  }
+}

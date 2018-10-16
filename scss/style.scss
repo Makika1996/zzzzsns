@@ -1,0 +1,19 @@
+// setup
+@import "variables";
+@import "mixins";
+
+// plugins
+@import "plugins/slick";
+@import "plugins/slick-theme";
+@import "plugins/onepage-scroll";
+
+// general
+@import "general";
+@import "navigation";
+@import "table";
+@import "map";
+
+// components
+@import 'components/slider';
+@import "components/sections";
+@import "components/buttons";
